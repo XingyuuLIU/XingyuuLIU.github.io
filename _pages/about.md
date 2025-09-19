@@ -34,22 +34,19 @@ My research interests focus on human mobility and behavior, human-environment in
 
 **Xingyu Liu**, Yehua Sheng, Lei Yu
 
-- A new data-synthesis-driven approach is developed for comprehensive perception and understanding of the UFZs by integrating dynamic and static human activity data. 
-- We build a weighted stacking ensemble classification model to obtain the final UFZ classification result, improving the accuracy of the recognition results.
-- Our methods recognize the dominant functions and the proportion of urban functions within each analysis unit and analyze its spatial patterns and degree of mixing. 
+- This work integrate dynamic and static human activity data to recognize the dominant functions and the proportion of urban functions within each analysis unit and analyze its spatial patterns and degree of mixing. 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geography and Geo-Information Science 2023</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Semantic Matching Method for Spatio-temporal Trajectories Based on Hidden Markov Model](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Semantic Matching Method for Spatio-temporal Trajectories Based on Hidden Markov Model](https://www.geores.com.cn/dlydlxxkx/CN/Y2023/V39/I03/1)
+基于隐马尔可夫模型的时空轨迹语义匹配方法
 
 **Xingyu Liu**, Yehua Sheng, Qinghao Liu, Longjie Ye
 
-- A new data-synthesis-driven approach is developed for comprehensive perception and understanding of the UFZs by integrating dynamic and static human activity data. 
-- We build a weighted stacking ensemble classification model to obtain the final UFZ classification result, improving the accuracy of the recognition results.
-- Our methods recognize the dominant functions and the proportion of urban functions within each analysis unit and analyze its spatial patterns and degree of mixing. 
+- This work transforms footpoint trajectories into semantic trajectories by replacing raw stay locations with the semantic labels of POIs
 </div>
 </div>
 
