@@ -53,7 +53,7 @@ My research interests focus on human mobility and behavior, human-environment in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Beijing Surveying and Mapping 2021</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Building Change Detection with High-resolution Images Based on Deep Learning and Difference Analysis](https://kns.cnki.net/nzkhtml/xmlRead/trialRead.html?dbCode=CJFD&tableName=CJFDTOTAL&fileName=BJCH202105004&fileSourceType=1&appId=KNS_BASIC_PSMC&invoice=Nvscgi8J0p67124wvVNFw/0GpgRuyBlt0RoOTF78UZ1XbUwsUjMx3BDvttZo3WoZ5ieUNbrDw/r/lJXLmb5/ZiNomTf3Npf9lnBviHaocPe9XQtK7JDkTjOKgUpI9LOz2zRm3pq+nuZnaKSBG6FSLqeWdG3jycFI6IDozuQDaQE=)
+[Building Change Detection with High-resolution Images Based on Deep Learning and Difference Analysis](https://kns.cnki.net/kcms2/article/abstract?v=mA0k7fYtKv7qyWJAplcFerWhJEPZGtd0aHPelAzAJr5k9iUehkRC-RPn_XyH5g_im-L6mRhZRPQT9JwmLbYf9RHdU9uUzhRnyyUgZg7ib7_25Y65UYGXMKll0Dtjqhl7Y9vudU4YI-3rWPXJalENpmvlS7BE-lz3&uniplatform=NZKPT&language=CHS)
 基于深度学习差值分析的高分影像建筑物变化检测
 
 **Xingyu Liu**, Jian Wang, Qia Zhu, et al.,
@@ -62,7 +62,7 @@ My research interests focus on human mobility and behavior, human-environment in
 </div>
 </div>
 
-- [A Method for Evaluating Urban Vitality Using the RAGA-PPM Model:A Case Study of Central Nanjing.](https://www.dqxxkx.cn/EN/10.12082/dqxxkx.2024.240380), **Yu, L.**, Sheng, Y., Liu, X., 2024. Journal of Geo-Information Science, 26(11):2567-2582. (In Chinese)
+- [A Method for Evaluating Urban Vitality Using the RAGA-PPM Model:A Case Study of Central Nanjing.](https://www.dqxxkx.cn/EN/10.12082/dqxxkx.2024.240380), Yu, L.**, Sheng, Y., **Liu, X.**, 2024. Journal of Geo-Information Science, 26(11):2567-2582. (In Chinese)
 - [Remote Sensing Image Building Contour Optimization Method Based on Minimum External Rectangle.](https://kns.cnki.net/kcms2/article/abstract?v=mA0k7fYtKv4qbPg5tAZgrx0OcsB5EhrmelKx9aPrOXakPp8H87GwjRpIiaNJMhe5v1clScNNKPu4-xch4XoAhn9Cv6JCVtyTEfV9r98nQ1xyccI5CPbn-mXD9iZsgdqKrJVQZH7gBlCOJTK2ZpmAERycrcUtoKObHDYh_Uo4k9Q=&uniplatform=NZKPT), Zhou, Z., Wang, J., Zhu, Q., **Liu, X.**, Ma, Z., Gao, X., 2021. Beijing Surveying and Mapping, 35(01), 1-6. (In Chinese)
 - [Accurate Extraction of Buildings from Remote Sensing Images Based on Improved Markov Random Field.](https://kns.cnki.net/kcms2/article/abstract?v=mA0k7fYtKv74OCbGm8kley52vMbq4wtNJpCQEvq0j8N0OHgkgzuYhGCrJiwjt0Sg8-2z4QGgHN89EwaX2GgihBtAyx86ZvXckpp7qd9zbTUoFXAmzgTGo9h4sqII6H6FBhbWqd9oKtiPESJVq-gGnBnIJFByiauOK3jUvYSKVaE=&uniplatform=NZKPT), Zhu, Q., Wang, J., **Liu, X.**, Zhou, Z., Ma, Z., Gao, X., 2020. Computer and Modernization, 0(07), 104-110. (In Chinese)
 
