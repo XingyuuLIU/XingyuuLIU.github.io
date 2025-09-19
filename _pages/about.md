@@ -115,7 +115,7 @@ Participant | Undergraduate College Student Innovation & Entrepreneurship Traini
 - *2020.11* The Grand Prize in the 1st Hubei Province College Student GIS Application Skills Competition        
 - *2019.12* China Petroleum Scholarship (Top 5%, twice), Yangtze University (twice)
 
-# 💡 Skills
+# 🎖 Honors and Awards
 - **Programming:** Python, C/C++, C#, SQL 
 - **Software:** ArcGIS, ENVI, Axure, Project, Photoshop, proficient in PowerPoint, Visio 
 
