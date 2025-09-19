@@ -50,7 +50,7 @@ My research interests focus on human mobility and behavior, human-environment in
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geography and Geo-Information Science 2023</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Beijing Surveying and Mapping 2021</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building Change Detection with High-resolution Images Based on Deep Learning and Difference Analysis](https://kns.cnki.net/nzkhtml/xmlRead/trialRead.html?dbCode=CJFD&tableName=CJFDTOTAL&fileName=BJCH202105004&fileSourceType=1&appId=KNS_BASIC_PSMC&invoice=Nvscgi8J0p67124wvVNFw/0GpgRuyBlt0RoOTF78UZ1XbUwsUjMx3BDvttZo3WoZ5ieUNbrDw/r/lJXLmb5/ZiNomTf3Npf9lnBviHaocPe9XQtK7JDkTjOKgUpI9LOz2zRm3pq+nuZnaKSBG6FSLqeWdG3jycFI6IDozuQDaQE=)
