@@ -6,12 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xingyu LIU1"
-description: |
-  Human Mobility and Behavior
-  Human-Environment Interaction
-  Infrastructure
-  Urban Perceptionrepository               : "RayeRen/acad-homepage.github.io"
+title                    : "Xingyu LIU"
+description              : "Human Mobility and Behavior <br> Human-Environment Interaction <br> Infrastructure <br> Urban Perception"
+repository               : "XingyuuLIU.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
