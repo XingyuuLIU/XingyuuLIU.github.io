@@ -67,7 +67,7 @@ My research interests focus on human mobility and behavior, human-environment in
 - [Accurate Extraction of Buildings from Remote Sensing Images Based on Improved Markov Random Field.](https://kns.cnki.net/kcms2/article/abstract?v=mA0k7fYtKv74OCbGm8kley52vMbq4wtNJpCQEvq0j8N0OHgkgzuYhGCrJiwjt0Sg8-2z4QGgHN89EwaX2GgihBtAyx86ZvXckpp7qd9zbTUoFXAmzgTGo9h4sqII6H6FBhbWqd9oKtiPESJVq-gGnBnIJFByiauOK3jUvYSKVaE=&uniplatform=NZKPT), Zhu, Q., Wang, J., **Liu, X.**, Zhou, Z., Ma, Z., Gao, X., 2020. Computer and Modernization, 0(07), 104-110. (In Chinese)
 
 # 🎓 Research Experiences
-📗 **Urban Structure Perception Based on Spatio-temporal Big Data.**                                             *2022.03 - Present*, 
+🎀 **Urban Structure Perception Based on Spatio-temporal Big Data.**                                             *2022.03 - Present*, 
 
 Independent Research | Virtual Geographic Environment Laboratory of Nanjing Normal University
 
@@ -78,7 +78,7 @@ Independent Research | Virtual Geographic Environment Laboratory of Nanjing Norm
 - Analyzed urban spatial patterns using indices such as Location Quotient, Shannon Wiener Diversity Index, and Urban Vitality Match Indicator.
 
 
-📙 **Spatio-temporal Trajectory Semantic Matching.**                                                             *2021.06 - 2022.10*, 
+🎀 **Spatio-temporal Trajectory Semantic Matching.**                                                             *2021.06 - 2022.10*, 
 
 Independent Research | Virtual Geographic Environment Laboratory of Nanjing Normal University
 
@@ -89,7 +89,7 @@ Independent Research | Virtual Geographic Environment Laboratory of Nanjing Norm
 - Achieved effective results, making the method suitable for POI-dense urban areas.
 
 
-📘 **Building Change Detection Using High-resolution Remote Sensing Imagery.**                                   *2020.09 - 2021.06*, 
+🎀 **Building Change Detection Using High-resolution Remote Sensing Imagery.**                                   *2020.09 - 2021.06*, 
 
 Participant | Undergraduate College Student Innovation & Entrepreneurship Training Program
 
