@@ -5,8 +5,7 @@ main:
 
 #  - title: "News"
 #    url: "/#-news"
-  - title: "Educations"
-    url: "/#-educations"
+
 
   - title: "Publications"
     url: "/#-publications"
@@ -22,3 +21,6 @@ main:
 
   - title: "Skills"
     url: "/#Skills"
+
+  - title: "Educations"
+    url: "/#-educations"
