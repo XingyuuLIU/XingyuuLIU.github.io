@@ -19,15 +19,27 @@ redirect_from:
 
 I completed my Bachelor of Science in Geographic Information Science at Yangtze University. I then earned my Master of Engineering in Photogrammetry and Remote Sensing from Nanjing Normal University.
 
-My research interests focus on human mobility and behavior, human-environment interaction and urban perception, especially on using digital traces of human activity to better understand social environment and how cities evolve. I have published three papers as the first author, including one in English and two in Chinese. In addition, I have co-authored three other papers.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests focus on human mobility and behavior, human-environment interaction and urban perception, especially on using digital traces of human activity to better understand social environment and how cities evolve. I have published three papers as the first author, including one in English and two in Chinese. In addition, I have co-authored three other papers.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.06*, M.S in Photogrammetry and Remote Sensing, School of Geography, Nanjing Normal University. 
+- *2015.09 - 2019.06*, B.S in Geographic Information Science, School of Geography, Yangtze University. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Data-Synthesis-Driven Approach to Recognize Urban Functional Zones by Integrating Dynamic Semantic Features](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Xingyu Liu**, Yehua Sheng, Lei Yu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
