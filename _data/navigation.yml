@@ -6,21 +6,20 @@ main:
 #  - title: "News"
 #    url: "/#-news"
 
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Research Experiences"
-    url: "/#-Research Experiences"
+    url: "/#-Research-Experiences"
 
   - title: "Works"
-    url: "/#-Works"
+    url: "/#-works"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Skills"
-    url: "/#Skills"
-
-  - title: "Educations"
-    url: "/#-educations"
+    url: "/#skills"
