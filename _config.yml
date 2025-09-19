@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "Human Mobility and Behavior, Human-Environment Interaction, Infrastructure, Urban Perception. "
+description              : "Human Mobility and Behavior\nHuman-Environment Interaction\nInfrastructure, Urban Perception. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xingyu Liu"
-  avatar           : "images/8791758264430_.jpg"
+  avatar           : "images/f6eb57474f9bb02c929b2da9180d18d3.png"
   bio              : "Nanjing Normal University"
   location         : "Shenzhen, China"
   employer         :
