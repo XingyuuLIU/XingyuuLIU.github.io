@@ -69,9 +69,9 @@ My research interests focus on human mobility and behavior, human-environment in
 # 🎓 Research Experiences
 **Urban Structure Perception Based on Spatio-temporal Big Data.**                            *2022.03 - Present*, 
 
-Independent Research | Virtual Geographic Environment Laboratory of Nanjing Normal University
+*Advisor: Yehua SHENG, Professor at School of Geography, Nanjing Normal University*
 
-Advisor: Yehua SHENG, Professor at School of Geography, Nanjing Normal University
+Independent Research | Virtual Geographic Environment Laboratory of Nanjing Normal University
 
 - Applied NLP techniques (e.g., P2V, LDA) to extract spatio-temporal and semantic features from human activity data, aiming to understand how residents actually use urban spaces.
 - Classified urban functional zones using an enhanced Stacking Ensemble model for improved accuracy.
@@ -84,16 +84,16 @@ Advisor: Yehua SHENG, Professor at School of Geography, Nanjing Normal Universit
 - *2020.10 - 2021.05*, **Zondy Cyber Group Co., Ltd.**, Wuhan, China.
 
 # 🎖 Honors and Awards
-- *2024.12* Advanced Individuals in Social Work (Top 10%), Nanjing Normal University. 
-- *2023.12* Excellent Graduate Student Society Leader (Top 10%), Nanjing Normal University. 
+- *2024.12* Advanced Individuals in Social Work (Top 10%), Nanjing Normal University
+- *2023.12* Excellent Graduate Student Society Leader (Top 10%), Nanjing Normal University
 - *2022.12* The First Prize Scholarship for Postgraduates (Top 10%), Nanjing Normal University
-- *2021*    The Excellent Award in the 'Sharing Cup' Innovation Competition                                                            
-- *2020.12* Communist Youth League standard-bearer (Top 1%), Yangtze University               
-- *2020.11* The second Prize in the 9th National College Student GIS Application Skills Competition  
-- *2020.11* The Grand Prize in the 1st Hubei Province College Student GIS Application Skills Competition         
-- *2019.12,2018.12* China Petroleum Scholarship (Top 5%, twice), Yangtze University 
+- *2021.08* The Excellent Award in the 'Sharing Cup' Innovation Competition                                                    
+- *2020.12* Communist Youth League standard-bearer (Top 1%), Yangtze University   
+- *2020.11* The second Prize in the 9th National College Student GIS Application Skills Competition
+- *2020.11* The Grand Prize in the 1st Hubei Province College Student GIS Application Skills Competition        
+- *2019.12* China Petroleum Scholarship (Top 5%, twice), Yangtze University (twice)
 
 # 💬 Skills
-- **Programming:** Python, C/C++, C#, SQL . 
+- **Programming:** Python, C/C++, C#, SQL 
 - **Software:** ArcGIS, ENVI, Axure, Project, Photoshop, proficient in PowerPoint, Visio 
 
