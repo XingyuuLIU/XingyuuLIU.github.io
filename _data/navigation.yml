@@ -13,7 +13,7 @@ main:
     url: "/#-publications"
 
   - title: "Research Experiences"
-    url: "/#-Research-Experiences"
+    url: "/#-research-experiences"
 
   - title: "Works"
     url: "/#-works"
@@ -22,4 +22,4 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Skills"
-    url: "/#skills"
+    url: "/#-skills"
