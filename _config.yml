@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Human Mobility and Behavior, Human-Environment Interaction, Infrastructure, Urban Perception. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xingyu Liu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/8791758264430_.jpg"
   bio              : "Nanjing Normal University"
   location         : "Shenzhen, China"
   employer         :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-2543-936X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
