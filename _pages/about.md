@@ -67,25 +67,33 @@ My research interests focus on human mobility and behavior, human-environment in
 - [Accurate Extraction of Buildings from Remote Sensing Images Based on Improved Markov Random Field.](https://kns.cnki.net/kcms2/article/abstract?v=mA0k7fYtKv74OCbGm8kley52vMbq4wtNJpCQEvq0j8N0OHgkgzuYhGCrJiwjt0Sg8-2z4QGgHN89EwaX2GgihBtAyx86ZvXckpp7qd9zbTUoFXAmzgTGo9h4sqII6H6FBhbWqd9oKtiPESJVq-gGnBnIJFByiauOK3jUvYSKVaE=&uniplatform=NZKPT), Zhu, Q., Wang, J., **Liu, X.**, Zhou, Z., Ma, Z., Gao, X., 2020. Computer and Modernization, 0(07), 104-110. (In Chinese)
 
 # 🎓 Research Experiences
-- *2022.03 - Present*, **Urban Structure Perception Based on Spatio-temporal Big Data.**
+**Urban Structure Perception Based on Spatio-temporal Big Data.**                            *2022.03 - Present*, 
 
 Independent Research | Virtual Geographic Environment Laboratory of Nanjing Normal University
 
 Advisor: Yehua SHENG, Professor at School of Geography, Nanjing Normal University
--Applied NLP techniques (e.g., P2V, LDA) to extract spatio-temporal and semantic features from human activity data, aiming to understand how residents actually use urban spaces.
--Classified urban functional zones using an enhanced Stacking Ensemble model for improved accuracy.
--Analyzed urban spatial patterns using indices such as Location Quotient, Shannon Wiener Diversity Index, and Urban Vitality Match Indicator.
+
+- Applied NLP techniques (e.g., P2V, LDA) to extract spatio-temporal and semantic features from human activity data, aiming to understand how residents actually use urban spaces.
+- Classified urban functional zones using an enhanced Stacking Ensemble model for improved accuracy.
+- Analyzed urban spatial patterns using indices such as Location Quotient, Shannon Wiener Diversity Index, and Urban Vitality Match Indicator.
 
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work
+- *2019.05 - 2020.02*, **China Telecom**, Shenzhen, China, China.
+- *2020.10 - 2021.05*, **Zondy Cyber Group Co., Ltd.**, Wuhan, China.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* Advanced Individuals in Social Work (Top 10%), Nanjing Normal University. 
+- *2023.12* Excellent Graduate Student Society Leader (Top 10%), Nanjing Normal University. 
+- *2022.12* The First Prize Scholarship for Postgraduates (Top 10%), Nanjing Normal University
+- *2021*    The Excellent Award in the 'Sharing Cup' Innovation Competition                                                            
+- *2020.12* Communist Youth League standard-bearer (Top 1%), Yangtze University               
+- *2020.11* The second Prize in the 9th National College Student GIS Application Skills Competition  
+- *2020.11* The Grand Prize in the 1st Hubei Province College Student GIS Application Skills Competition         
+- *2019.12,2018.12* China Petroleum Scholarship (Top 5%, twice), Yangtze University 
 
 # 💬 Skills
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **Programming:** Python, C/C++, C#, SQL . 
+- **Software:** ArcGIS, ENVI, Axure, Project, Photoshop, proficient in PowerPoint, Visio 
 
