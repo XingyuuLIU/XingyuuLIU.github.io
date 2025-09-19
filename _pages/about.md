@@ -62,12 +62,21 @@ My research interests focus on human mobility and behavior, human-environment in
 </div>
 </div>
 
-- [A Method for Evaluating Urban Vitality Using the RAGA-PPM Model:A Case Study of Central Nanjing.](https://www.dqxxkx.cn/EN/10.12082/dqxxkx.2024.240380), Yu, L.**, Sheng, Y., **Liu, X.**, 2024. Journal of Geo-Information Science, 26(11):2567-2582. (In Chinese)
+- [A Method for Evaluating Urban Vitality Using the RAGA-PPM Model:A Case Study of Central Nanjing.](https://www.dqxxkx.cn/EN/10.12082/dqxxkx.2024.240380), Yu, L., Sheng, Y., **Liu, X.**, 2024. Journal of Geo-Information Science, 26(11):2567-2582. (In Chinese)
 - [Remote Sensing Image Building Contour Optimization Method Based on Minimum External Rectangle.](https://kns.cnki.net/kcms2/article/abstract?v=mA0k7fYtKv4qbPg5tAZgrx0OcsB5EhrmelKx9aPrOXakPp8H87GwjRpIiaNJMhe5v1clScNNKPu4-xch4XoAhn9Cv6JCVtyTEfV9r98nQ1xyccI5CPbn-mXD9iZsgdqKrJVQZH7gBlCOJTK2ZpmAERycrcUtoKObHDYh_Uo4k9Q=&uniplatform=NZKPT), Zhou, Z., Wang, J., Zhu, Q., **Liu, X.**, Ma, Z., Gao, X., 2021. Beijing Surveying and Mapping, 35(01), 1-6. (In Chinese)
 - [Accurate Extraction of Buildings from Remote Sensing Images Based on Improved Markov Random Field.](https://kns.cnki.net/kcms2/article/abstract?v=mA0k7fYtKv74OCbGm8kley52vMbq4wtNJpCQEvq0j8N0OHgkgzuYhGCrJiwjt0Sg8-2z4QGgHN89EwaX2GgihBtAyx86ZvXckpp7qd9zbTUoFXAmzgTGo9h4sqII6H6FBhbWqd9oKtiPESJVq-gGnBnIJFByiauOK3jUvYSKVaE=&uniplatform=NZKPT), Zhu, Q., Wang, J., **Liu, X.**, Zhou, Z., Ma, Z., Gao, X., 2020. Computer and Modernization, 0(07), 104-110. (In Chinese)
 
 # 🎓 Research Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.03 - Present*, **Urban Structure Perception Based on Spatio-temporal Big Data.**
+
+Independent Research | Virtual Geographic Environment Laboratory of Nanjing Normal University
+
+Advisor: Yehua SHENG, Professor at School of Geography, Nanjing Normal University
+-Applied NLP techniques (e.g., P2V, LDA) to extract spatio-temporal and semantic features from human activity data, aiming to understand how residents actually use urban spaces.
+-Classified urban functional zones using an enhanced Stacking Ensemble model for improved accuracy.
+-Analyzed urban spatial patterns using indices such as Location Quotient, Shannon Wiener Diversity Index, and Urban Vitality Match Indicator.
+
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
