@@ -102,7 +102,7 @@ Participant | Undergraduate College Student Innovation & Entrepreneurship Traini
 
 
 # 💻 Works
-- *2019.05 - 2020.02*, **China Telecom**, Shenzhen, China, China.
+- *2024.09 - present*, **China Telecom**, Shenzhen, China, China.
 - *2020.10 - 2021.05*, **Zondy Cyber Group Co., Ltd.**, Wuhan, China.
 
 # 🎖 Honors and Awards
